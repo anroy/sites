@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book id="B1" ISBN="NA">
+		<title>Pride and Prejudice</title>
+		<author>Jane Austen</author>
+		<pages>416</pages>
+		<format>Hardback</format>
+		<publisher>T. Egerton, Whitehall</publisher>
+		<year>1813</year>
+		<language>English</language>
+	</book>
+	<book id="B2" ISBN="NA">
+		<title>The Adventures of Sherlock Holmes</title>
+		<author>Arthur Conan Doyle</author>
+		<pages>307</pages>
+		<format>Hardback</format>
+		<publisher>George Newnes</publisher>
+		<year>1892</year>
+		<language>English</language>
+	</book>
+	<book id="B3" ISBN="NA">
+		<title>Alice's Adventures in Wonderland</title>
+		<author>Lewis Carroll</author>
+		<pages>202</pages>
+		<format>Hardback</format>
+		<publisher>Macmillan</publisher>
+		<year>1865</year>
+		<language>English</language>
+	</book>
+	<book id="B4" ISBN="NA">
+		<title>A Christmas Carol</title>
+		<author>Charles Dickens</author>
+		<pages>128</pages>
+		<format>Hardback</format>
+		<publisher>Chapman and Hall</publisher>
+		<year>1843</year>
+		<language>English</language>
+	</book>
+	<book id="B5" ISBN="0765328321">
+		<title>Halo: The Fall of Reach</title>
+		<author>Eric Nylund</author>
+		<pages>448</pages>
+		<format>Paperback</format>
+		<publisher>Tor</publisher>
+		<year>2010</year>
+		<language>English</language>
+	</book>
+</library>
